@@ -1,2 +1,2 @@
 # openweather_hw
-this is my open weather API HW for 
+This used the Openweather API and utilizes seaborn, matplotlib and the citipy library to gather random cities based off of random generated geo coordinates.
